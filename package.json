@@ -1,6 +1,6 @@
 {
   "name": "vue-custom-element",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "description": "Custom Elements for Vue.js",
   "main": "dist/vue-custom-element.js",
   "module": "dist/vue-custom-element.esm.js",
@@ -47,7 +47,7 @@
     "connect-history-api-fallback": "^1.5.0",
     "cross-spawn": "^6.0.3",
     "css-loader": "^0.28.9",
-    "document-register-element": "^1.7.1",
+    "document-register-element": "^1.7.2",
     "element-ui": "^2.0.11",
     "es6-promise": "^4.2.4",
     "eslint": "^4.13.1",
